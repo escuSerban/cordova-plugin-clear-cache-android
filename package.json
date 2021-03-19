@@ -1,0 +1,22 @@
+{
+    "name": "clearCacheAndroid",
+    "version": "1.0.0",
+    "description": "Cordova Plugin for Android Platform to perform the basic functionality of emptying the cached data on App startup.",
+    "cordova": {
+        "id": "clearCacheAndroid",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android",
+        "clear-cache"
+    ],
+    "homepage": "https://github.com/escuSerban/cordova-plugin-clear-cache-android",
+    "author": {
+        "name": "Serban-Cristian Ghermanescu",
+        "url": "https://github.com/escuSerban"
+    },
+    "license": "ISC"
+}
